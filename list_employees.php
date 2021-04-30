@@ -2,7 +2,8 @@
 
 <h2> List of Employees </h2>
 
-<a href= 'add_employee.php'>Add Employe </a>
+<a href= 'add_employee.php'>Add Employee </a>
+<a href= 'search_employees.php'>Search Employee </a>
 
 <table >
 
